@@ -1,4 +1,8 @@
 this is line 1
 this is line 2
 this is line 3
+<<<<<<< HEAD
 update from hub
+=======
+update
+>>>>>>> d47c5c8 (update : updated notes.txt)
